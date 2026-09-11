@@ -415,12 +415,12 @@ python evaluation/run.py \
 ```
 
 <div align="center">
-  <a href="https://star-history.dera.page/#xzf-thu/VoiceMem&type=date&legend=top-left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
-      <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
-    </picture>
+  <a href="https://www.star-history.com/?repos=xzf-thu%2FVoiceMem&type=date&legend=top-left">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&theme=dark&legend=top-left" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
+     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
+   </picture>
   </a>
 </div>
 
@@ -864,15 +864,13 @@ If VoiceMem is useful for your research, please cite our paper:
 }
 ```
 
-<div align="center">
-  <a href="https://star-history.dera.page/#xzf-thu/VoiceMem&type=date&legend=top-left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
-      <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
-    </picture>
-  </a>
-</div>
+<a href="https://www.star-history.com/?repos=xzf-thu%2FVoiceMem&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xzf-thu/VoiceMem&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## Acknowledgements
 
